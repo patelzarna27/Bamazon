@@ -1,13 +1,9 @@
 # Bamazon
-Week 12 Homework for Coding Bootcamp at UCLA Extension
 
 ##Objective
 To create an Amazon-like storefront with the MySQL skills learned this week. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, the program will track product sales across the store's departments and then provide a summary of the highest-grossing departments in the store. The assignment is broken down into the following three challenges. All of the challenges were completed and a video demonstrating each different challenge has been included in each section.
 
 ###Challenge 1: Customer View
-
-####Video Demonstration
-[Challenge 1 Video Demonstration](https://www.youtube.com/watch?v=ikJZ18s819g&index=2&list=PL5nyTJrSV6dGoE-fsWrSwqEUjVeH1FRlY)
 
 ####Tasks
 
@@ -44,9 +40,6 @@ To create an Amazon-like storefront with the MySQL skills learned this week. The
 
 ###Challenge 2: Manager View
 
-####Video Demonstration
-[Challenge 2 Video Demonstration](https://www.youtube.com/watch?v=7deEdZ_2nTo&index=1&list=PL5nyTJrSV6dGoE-fsWrSwqEUjVeH1FRlY)
-
 ####Tasks
 
 * Create a new Node application called `BamazonManager.js`. Running this application will:
@@ -66,9 +59,6 @@ To create an Amazon-like storefront with the MySQL skills learned this week. The
 	* If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
 
 ###Challenge 3: Executive View
-
-####Video Demonstration
-[Challenge 3 Video Demonstration](https://www.youtube.com/watch?v=_ojEXr_KKlU&index=3&list=PL5nyTJrSV6dGoE-fsWrSwqEUjVeH1FRlY)
 
 ####Tasks
 
